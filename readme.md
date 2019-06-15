@@ -9,7 +9,7 @@
 
 ## Установка
 
-- git clone https://github.com/yudzhinbrown/guestbook  guestbook
+- git clone https://github.com/yudzhinbrown/guestbook.loc  guestbook
 - cd guestbook
 - composer install
 - copy .env.example .env
